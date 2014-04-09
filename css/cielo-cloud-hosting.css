@@ -199,6 +199,7 @@ i.service-icon {
 
 footer {
   padding: 100px 0;
+  background: url(../img/image2.jpg) no-repeat center center fixed; 
 }
 
 .top-scroll {
@@ -222,7 +223,7 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: url(../img/bg.jpg) no-repeat center center scroll; 
+	background: url(../img/image1.jpg) no-repeat center center scroll; 
   }
 
   .callout {
