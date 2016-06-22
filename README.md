@@ -1,2 +1,3 @@
-cielo-cloud-hosting-website
-===========================
+# Cielo Cloud Hosting Website
+
+A Bootstrap prototype
